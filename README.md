@@ -14,4 +14,4 @@ The primary objectives of this project are:
 • Detail our research and implement the simulation in a Jupyter notebook – the data set itself can simply be displayed in an output cell within the notebook.
 
 The four variables selected are as follows:
-Gender -- Age -- Do you have Depression? -- Did you seek any specialist for a treatment?
+*Gender -- Age -- Do you have Depression? -- Did you seek any specialist for a treatment?*
